@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Metaduck',
     description:
-      'Pedro\'s blogs,
+      'Pedro\'s blogs',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

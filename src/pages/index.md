@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Metaduck
 image: /img/img_8340.jpg
-heading: 'Code, distributed systems and more'
+heading: 'Code, distributed systems and more..'
 subheading: 'Code, distributed systems and more'
 mainpitch:
   title: Why Kaldi

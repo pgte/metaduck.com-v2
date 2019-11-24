@@ -3,6 +3,9 @@ title: How to build a reliable transaction experience for your customers
 date: "2016-06-24T15:04:10.000Z"
 ---
 
+
+![Cash register](./cash-register.jpg)
+
 ## TL;DR
 
 HTTP RESTful APIs are the wrong level of abstraction to deliver complex transactions.

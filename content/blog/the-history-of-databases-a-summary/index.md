@@ -1,6 +1,7 @@
 ---
 title: "The history of databases: a quick summary"
 date: "2019-11-25T12:04:10.000Z"
+description: "A quick layout of the history of databases"
 ---
 
 ## Databases

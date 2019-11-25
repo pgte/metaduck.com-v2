@@ -1,6 +1,7 @@
 ---
 title: Why your application needs to be offline-first — typical use cases
 date: "2016-07-20T15:04:10.000Z"
+description: "I recently attended the first Offline Camp, a gathering of a very diverse group of people that were interested and invested in the Offline-first subject."
 ---
 
 ![Offline Camp](./offline-camp.jpg)

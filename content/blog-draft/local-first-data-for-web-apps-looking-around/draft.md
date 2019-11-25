@@ -13,60 +13,6 @@ date: 2019-07-27T15:04:10.000Z
   * The cloud brings back time-sharing
   * Put services through enormous work loads
 
-## Databases
-
-The appearence of the term "database" coincided with the availability of direct-access storage (mid-60's). The term represented a contrast with the tap-based systems of the past, allowing shared interactive use ratrher than batch processing.
-
-## Network databases
-
-General purpose database systems emerged during that time.
-
-CODASYL: primary key, navigation relationships, or scanning.
-
-IBM IMS (Information Mamagement System), running on the System/360, initially developed for the Apollo program. Strictly hierarchical.
-
-Both IMS and CODASYL classify as **network databases**.
-
-## 1970's relational databases
-
-Edgar Codd, at the time working for IBM on storage, became frustrated by the limitations imposed by network databases.
-
-Initial idea: tables of fixed-length records. Different table for different types of identity.
-
-The relational part comes from the capability of entities can refer other entitities.
-
-A relational database can express both hierarchical or navigational models, as well as its native tabular model.
-
-To query it, the author of the relational algebra proposed a set-oriented languaged, which would later spawn SQL.
-
-Based on Codd's paper, INGRES was created by two people at Berkeley (Eugene Wong and Micheal Stonebraker).
-
-## Late 1970's: SQL DBMSs
-
-IBM started working on an implementation of Codd's paper named System R, first single-table and then later, in the late 70's, on a multi-table implementation.
-
-Later, multi-user versions were developed and were tested by customers in 1978 and 1979, by which time a standardized language named SQL had been added.
-
-The success of these experiments lead IBM to create a true production of System R known as SQL/DS and later, Database 2 (DB2).
-
-By around the same time, Larry Ellison developed the Oracle database, based off IBM's papers on System R, and released Oracle version 2 in 1979.
-
-Stonebraker took his learnings from INGRES and started a project named Postgres (now known as PostgreSQL, since then used in many mission-critical applications.
-
-## 1980's on the desktop
-
-Spreadsheet software (like Lotus 123) and database software (like dBASE) appeared for desktop computers. dBASE became a huge success during the 80's and 90's.
-
-## Document databases
-
-Do not required fixed schemas, avoid join operations and are designed to scale horizontally.
-
-## Now
-
-In recent years, there has been a strong for massively distributed databases with high partition tolerance. But the CAP theorem states that, in the presence of a network partition, you can either provide consistency or availability.
-
-For that, many new databases are using what is called eventual consistency, guaranteeding availability during network partitions.
-
 
 
 # Archeology

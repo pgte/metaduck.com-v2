@@ -1,7 +1,6 @@
 ---
 title: Why your application needs to be offline-first — typical use cases
 date: "2016-07-20T15:04:10.000Z"
-description: Offline-first and Offline camp
 ---
 
 ![Offline Camp](./offline-camp.jpg)
